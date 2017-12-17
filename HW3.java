@@ -8,9 +8,9 @@ import java.util.Scanner;
  */
 public class HW3 {
 	public static void main(String[] args) {
-		Scanner sc = new Scanner(System.in);
-		System.out.println("input N(deck of cards):");
-		String testn= sc.nextLine(); 
+		//Scanner sc = new Scanner(System.in);
+		//System.out.println("input N(deck of cards):");
+		//String testn= sc.nextLine(); 
 		int nDeck=1;
 		//TODO: please add new fields and methods to Deck class (35)
 		//usedCard (5 points)  

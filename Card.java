@@ -7,7 +7,7 @@ public class Card{
 	 * @param s suit
 	 * @param r rank
 	 */
-	enum Suit {Clubs, Diamonds, Hearts, Spades};
+	enum Suit {Clubs, Diamonds, Hearts, Spades}
     public String[] Rank = {"Ace","2","3","4","5","6","7","8","9","10","Jack","Queen","King"};
 	public Card(Suit s,int r){
 		suit=s;
